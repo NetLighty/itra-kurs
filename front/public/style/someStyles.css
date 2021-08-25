@@ -1,0 +1,8 @@
+.red{
+    color: red;
+}
+
+.collection-container{
+    grid-template-columns: repeat(3, 1fr);
+    display: grid;
+}
